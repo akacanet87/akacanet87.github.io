@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/prologue", {data:[{}],fetch:{},mutations:[]});
