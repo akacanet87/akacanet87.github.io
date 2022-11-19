@@ -1,0 +1,47 @@
+{
+  "result": {
+    "itemId": 117082,
+    "model": null,
+    "modelEng": null,
+    "brandName": "샤넬",
+    "brandNameEng": "CHANEL",
+    "categoryId": 21,
+    "categoryCode": "wl",
+    "categoryName": "여성,액세서리,지갑_카드홀더",
+    "style": null,
+    "styleEng": null,
+    "size": null,
+    "sizeEng": null,
+    "color": null,
+    "colorEng": null,
+    "mainImage": "https://s3.ap-northeast-2.amazonaws.com/image-cdn.trenbe.com/catalog/df09c619-5d58-4b7e-b58e-7c49e8e4f51d",
+    "mainImageSmall": "https://s3.ap-northeast-2.amazonaws.com/image-cdn.trenbe.com/catalog/df09c619-5d58-4b7e-b58e-7c49e8e4f51d",
+    "mainImageThumb": "https://s3.ap-northeast-2.amazonaws.com/image-cdn.trenbe.com/catalog/df09c619-5d58-4b7e-b58e-7c49e8e4f51d"
+  },
+  "firebaseAuth": {
+    "uid": "CL37SJVdjYYoEPbLwxlEvBJPeUG3",
+    "email": "akacanet87@nate.com",
+    "emailVerified": true,
+    "isAnonymous": false,
+    "photoURL": "https://firebasestorage.googleapis.com/v0/b/vitameet-d889c.appspot.com/o/CL37SJVdjYYoEPbLwxlEvBJPeUG3%2FprofilePicture%2F1.%E1%84%89%E1%85%A1%E1%86%BC%E1%84%91%E1%85%AE%E1%86%B7%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%86%E1%85%A7%E1%86%AB.jpg?alt=media&token=0feb263c-0d1e-42a9-939c-f0a58d2bb093",
+    "providerData": [
+      {
+        "providerId": "password",
+        "uid": "akacanet87@nate.com",
+        "displayName": null,
+        "email": "akacanet87@nate.com",
+        "phoneNumber": null,
+        "photoURL": "https://firebasestorage.googleapis.com/v0/b/vitameet-d889c.appspot.com/o/CL37SJVdjYYoEPbLwxlEvBJPeUG3%2FprofilePicture%2F1.%E1%84%89%E1%85%A1%E1%86%BC%E1%84%91%E1%85%AE%E1%86%B7%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%86%E1%85%A7%E1%86%AB.jpg?alt=media&token=0feb263c-0d1e-42a9-939c-f0a58d2bb093"
+      }
+    ],
+    "stsTokenManager": {
+      "refreshToken": "AIwUaOmQaX1OhgfBVNbollsP-OkM9qjZgcet3LFyvBRVEaJFWPDt8sVb3mLKEVWLPiBeMCUJVSZNhPzSVR9K7WBz0yeEY0pzoSxVQxIL8vPPLJvmfacCiW8ewsbRFtEaOm-yQ9tuwl54luyo4iNjrmYfbPdhIwAvzkbIWKUhW8IyhhsC0rHgoysKx7s-y5JOjnV0x3bREpY4G4mTjKzslAzC0W_TR_tbZg",
+      "accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjY5N2Q3ZmI1ZGNkZThjZDA0OGQzYzkxNThiNjIwYjY5MTA1MjJiNGQiLCJ0eXAiOiJKV1QifQ.eyJwaWN0dXJlIjoiaHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi92aXRhbWVldC1kODg5Yy5hcHBzcG90LmNvbS9vL0NMMzdTSlZkallZb0VQYkx3eGxFdkJKUGVVRzMlMkZwcm9maWxlUGljdHVyZSUyRjEuJUUxJTg0JTg5JUUxJTg1JUExJUUxJTg2JUJDJUUxJTg0JTkxJUUxJTg1JUFFJUUxJTg2JUI3JUUxJTg0JThDJUUxJTg1JUE1JUUxJTg2JUJDJUUxJTg0JTg2JUUxJTg1JUE3JUUxJTg2JUFCLmpwZz9hbHQ9bWVkaWEmdG9rZW49MGZlYjI2M2MtMGQxZS00MmE5LTkzOWMtZjBhNThkMmJiMDkzIiwiaXNzIjoiaHR0cHM6Ly9zZWN1cmV0b2tlbi5nb29nbGUuY29tL3ZpdGFtZWV0LWQ4ODljIiwiYXVkIjoidml0YW1lZXQtZDg4OWMiLCJhdXRoX3RpbWUiOjE2NTMzODk0MzUsInVzZXJfaWQiOiJDTDM3U0pWZGpZWW9FUGJMd3hsRXZCSlBlVUczIiwic3ViIjoiQ0wzN1NKVmRqWVlvRVBiTHd4bEV2QkpQZVVHMyIsImlhdCI6MTY1MzM4OTQzNSwiZXhwIjoxNjUzMzkzMDM1LCJlbWFpbCI6ImFrYWNhbmV0ODdAbmF0ZS5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiZmlyZWJhc2UiOnsiaWRlbnRpdGllcyI6eyJlbWFpbCI6WyJha2FjYW5ldDg3QG5hdGUuY29tIl19LCJzaWduX2luX3Byb3ZpZGVyIjoicGFzc3dvcmQifX0.WXnufkRg2GATbNKKI1PpLo9e_n69BhvsgkhwXuexnPHQnKrEnrbInETmDfQSpPx5MeKUpX-76hcJUEf_pPSUMIpqEPM-UR6tKknX4AnG8I8QpF4YpM0S8YxgB19QcH8o9h5rzqqTlfyBUkpUcMdJNMqTebzr735cbD6itqeaoY2ikUf3Wx93mntkCqsVOHMU36FC3DoBQ0Tgk6AZ-4j7JZsU3uzMF_WH-FRcs8c3YVZsiKA_4nM7tU-2hcLf-rGjiQJpTCGrGrG62dYcfJVWLlSHMdfeFq1bj9eZBg3LyMSSspw8f61b7WeecKpoUt_Z0XeinkeqEYMLMQCEFZRTNw",
+      "expirationTime": 1653393035436
+    },
+    "createdAt": "1652370738923",
+    "lastLoginAt": "1653389435699",
+    "apiKey": "AIzaSyAL0bhz8FHbos4HFMbGrkmKOH3rkL0vsas",
+    "appName": "[DEFAULT]"
+  }
+}
