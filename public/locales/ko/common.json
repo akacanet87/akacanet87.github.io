@@ -1,0 +1,10 @@
+{
+  "projectName": "1℃",
+  "header": {
+    "signup": "회원가입",
+    "login": "로그인",
+    "coin": "Coin : {{myCoin}}"
+  },
+  "moreLink": "더보기 >",
+  "loading": "로딩중입니다"
+}

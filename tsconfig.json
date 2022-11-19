@@ -8,41 +8,41 @@
       "es2017"
     ],
     "paths": {
-      "@/components/*": [
-        "components/*"
+      "@components/*": [
+        "src/components/*"
       ],
-      "@/configs/*": [
-        "configs/*"
+      "@configs/*": [
+        "src/configs/*"
       ],
-      "@/contexts/*": [
-        "contexts/*"
+      "@contexts/*": [
+        "src/contexts/*"
       ],
-      "@/hooks/*": [
-        "hooks/*"
+      "@hooks/*": [
+        "src/hooks/*"
       ],
-      "@/layouts/*": [
-        "layouts/*"
+      "@layouts/*": [
+        "src/layouts/*"
       ],
-      "@/middlewares/*": [
-        "middlewares/*"
+      "@middlewares/*": [
+        "src/middlewares/*"
       ],
-      "@/pages/*": [
-        "pages/*"
+      "@pages/*": [
+        "src/pages/*"
       ],
-      "@/plugins/*": [
-        "plugins/*"
+      "@plugins/*": [
+        "src/plugins/*"
       ],
-      "@/requests/*": [
-        "requests/*"
+      "@styles/*": [
+        "src/styles/*"
       ],
-      "@/styles/*": [
-        "styles/*"
+      "@services/*": [
+        "src/services/*"
       ],
-      "@/types/*": [
-        "types/*"
+      "@types/*": [
+        "src/types/*"
       ],
-      "@/utils/*": [
-        "utils/*"
+      "@utils/*": [
+        "src/utils/*"
       ]
     },
     "baseUrl": ".",

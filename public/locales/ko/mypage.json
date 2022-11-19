@@ -1,0 +1,21 @@
+{
+  "metamask": {
+    "meta": {
+      "title": "메타마스크 연동",
+      "description": "OneDegree Metamask"
+    },
+    "title": "아직 메타마스크를\n연동하지 않으셨군요!",
+    "description": "메타마스크를 연동하셔야\n코인을 적립할 수 있어요!",
+    "button": "메타마스크 연동하러 가기"
+  },
+  "account": {
+    "meta": {
+      "title": "마이페이지",
+      "description": "OneDegree My Page"
+    },
+    "coinHistory": {
+      "address": "획득 위치: {{address}}",
+      "amount": "{{amount}} 코인 획득!"
+    }
+  }
+}

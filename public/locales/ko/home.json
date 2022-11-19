@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "title": "홈",
+    "description": "OneDegree Home"
+  },
+  "projectName": "일도씨",
+  "garbageSection": {
+    "title": "업사이클링",
+    "smallTitle": "을 위해 이만큼 분리수거 하셨어요!"
+  },
+  "mapSection": {
+    "title": "분리수거함",
+    "smallTitle": "의 위치를 확인해보세요!"
+  },
+  "discordSection": {
+    "title": "디스코드",
+    "smallTitle": "로 다른 참여자와 경쟁해보세요!",
+    "bannerTitle": "디스코드 참여하기"
+  },
+  "eventSection": {
+    "title": "제휴 이벤트",
+    "smallTitle": "들이에요!"
+  }
+}

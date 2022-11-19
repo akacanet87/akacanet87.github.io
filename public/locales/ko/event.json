@@ -1,0 +1,20 @@
+{
+  "event": {
+    "meta": {
+      "title": "이벤트",
+      "description": "OneDegree Event List"
+    },
+    "title": "1℃ 제휴 이벤트",
+    "smallTitle": "들을 확인해보세요!"
+  },
+  "eventDetail": {
+    "meta": {
+      "title": "{{title}}",
+      "description": "이벤트 설명 : {{description}}"
+    },
+    "backgroundAlt": "{{title}}의 {{index}}번째 이미지",
+    "thumbnailAlt": "{{title}}의 썸네일",
+    "attendEvent": "이벤트 참여하기",
+    "dueDate": "이벤트 마감 기한 : {{dueDate}} 까지"
+  }
+}
